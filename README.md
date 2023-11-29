@@ -15,4 +15,5 @@ Pour insérer toutes les données, exécutez ce fichier dans la BDD : [insert_va
 
 
 
-## Script de requêtes à la base de données : [requetes.Sql](./requetes.sql)
+## Script de requêtes à la base de données :
+Pour exécuter les requêtes demandées, prendre un par un les requêtes qui se trouvent dans ce script : [requetes.Sql](./requetes.sql)
